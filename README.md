@@ -2,6 +2,7 @@ Tetris Description: Tetris made in 16-bit assembly
 
 Features:
 - **Printing Shapes**: Functions to print different Tetris shapes at the top of the screen.
+- **Upcoming Shapes**: Upcoming Shapes are displayed so player can make present decisions accordingly.
 - **Scrolling Down**: Functionality to scroll shapes downwards on the screen.
 - **Score Management**: Includes a function to increment the score.
 - **Start Screen Animation**: Engaging animations and prompts when the game starts.
